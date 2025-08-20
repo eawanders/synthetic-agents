@@ -14,6 +14,8 @@ How to use
 2) Replace TODOs with your code.
 3) Run the file and check the prints / self-checks.
 """
+import tutorials.week1.day1.basics as basics
+print(basics.__doc__)
 
 # =============== EXERCISE 1 — Variables & Types =====================
 # TODO: set your own values
