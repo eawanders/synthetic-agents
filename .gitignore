@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Virtual environments
+.venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & artifacts
+data/*
+!data/.gitkeep
+
+# OS / Editor cruft
+.DS_Store
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
