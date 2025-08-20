@@ -1,0 +1,1 @@
+print('Collections day')
